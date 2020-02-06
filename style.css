@@ -1,0 +1,22 @@
+.navbarNav ul li:first-child { float: left; }
+
+.navbarNav ul li { 
+  list-style:none;
+  margin:10px;
+  float: right; 
+}
+
+.modal-backdrop.show{
+  z-index: 10;
+}
+
+.carousel-item {
+    height: 100%;
+    background: no-repeat center center scroll;
+    background-size: cover;
+  }
+
+
+  footer{
+    background: rgb(6,10,32);padding:3%
+  }
